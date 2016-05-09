@@ -5,3 +5,6 @@ tmp*.png
 book.tex
 book.pdf
 log/*
+/.idea
+.idea/
+idea/

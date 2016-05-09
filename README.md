@@ -1,4 +1,4 @@
-<canvas id="custom" class="canvas" data-fragment-url="examples/moon.frag" data-textures="examples/images/moon-texture.jpg" width="350px" height="350px"></canvas>
+<canvas id="custom" class="canvas" data-fragment-url="src/moon/moon.frag" data-textures="src/moon/moon.jpg" width="350px" height="350px"></canvas>
 
 # The Book of Shaders
 *by [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)*
@@ -29,6 +29,7 @@ This is a gentle step-by-step guide through the abstract and complex universe of
 * Generative designs
     * [Random](10/)
     * [Noise](11/)
+    * Cellular noise
     * Fractional brownian motion
     * Fractals
 
@@ -58,6 +59,7 @@ This is a gentle step-by-step guide through the abstract and complex universe of
 	* [How can I navigate this book offline?](appendix/)
 	* [How to run the examples on a RaspberryPi?](appendix/)
 	* [How to print this book?](appendix/)
+    * [How can I collaborate?](appendix/)
 
 * [Examples Gallery](examples/)
 
@@ -77,6 +79,8 @@ Thanks to my wife [Jen Lowe](http://www.datatelling.com/), for her unconditional
 
 Thanks [Scott Murray](http://alignedleft.com/) for the inspiration and advice.
 
+Thanks [Kenichi Yoneda (Kynd)](https://twitter.com/kyndinfo), [Nicolas Barradeau](https://twitter.com/nicoptere), [Karim Naaji](http://karim.naaji.fr/) for contributing with support, good ideas and code.
+
 Thanks [Kenichi Yoneda (Kynd)](https://twitter.com/kyndinfo) and [Sawako](https://twitter.com/sawakohome) for the [Japanese translation (日本語訳)](?lan=jp)
 
 Thanks [Tong Li](https://www.facebook.com/tong.lee.9484) and [Yi Zhang](https://www.facebook.com/archer.zetta?pnref=story) for the [Chinese translation (中文版)](?lan=ch)
@@ -85,7 +89,7 @@ Thanks [Jae Hyun Yoo](https://www.facebook.com/fkkcloud) for the Korean [transla
 
 Thanks [Nahuel Coppero (Necsoft)](http://hinecsoft.com/) for the Spanish [translation (español)](?lan=es)
 
-Thanks [Karim Naaji](http://karim.naaji.fr/) for contributing with support, good ideas and code.
+Thanks [Nicolas Barradeau](https://twitter.com/nicoptere) and [Karim Naaji](http://karim.naaji.fr/) for the French [translation (français)](?lan=fr)
 
 Thanks to everyone who has believed in this project and [contributed with fixes](https://github.com/patriciogonzalezvivo/thebookofshaders/graphs/contributors) or donations.
 
